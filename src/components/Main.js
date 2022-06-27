@@ -8,7 +8,7 @@ function Main() {
                 <h1 className="main-name">Laura Smith</h1>
                 <h3 className="main-role">Frontend Developer</h3>
                 <h5 className="main-contact">laurasmith.website</h5>
-                <button className="main-email"><img src={Email} className="main-email-icon"/>Email</button>
+                <button className="main-email"><img src={Email} className="main-email-icon" alt="email"/>Email</button>
             </div>
             <div className="main-about">
                 <h2 className="main-about-title">About</h2>
