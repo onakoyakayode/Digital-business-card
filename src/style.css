@@ -85,6 +85,8 @@
     border-radius: 6px;
     mix-blend-mode: pass through;
     gap: 8px;
+    background: #FFFFFF;
+    color: #374151;
     border: 1px solid #D1D5DB;
     box-shadow: 0px 1px 2px 0px #0000000D;
     box-sizing: border-box;
@@ -92,6 +94,7 @@
     font-size: 14px;
     font-weight: 500;
     line-height: 16px;
+    cursor: pointer;
 }
 
 .main-about {
